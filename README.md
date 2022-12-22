@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rick Baas</h1>
 <h3 align="center">A Developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on [my own website](rickbaas.nl)
+- 🔭 I’m currently working on **my own website**
 
-- 📫 How to reach me **rickbaas.nl/contact**
+- 🌱 I’m currently learning **HTML, CSS, JS and Python on**
+
+- 👨‍💻 All of my projects are available at [rickbaas.nl](rickbaas.nl)
+
+- 📫 How to reach me **https://www.rickbaas.nl/contact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
