@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rick Baas</h1>
 <h3 align="center">A Developer from the Netherlands</h3>
 
+<h4>Currently working on my MBO Software development on Grafisch Lyceum Rotterdam</h4>
+
 - 🔭 I’m currently working on **my own website**
 
 - 🌱 I’m currently learning **HTML, CSS, JS and Python on**
@@ -9,7 +11,6 @@
 
 - 📫 How to reach me **https://www.rickbaas.nl/contact**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
