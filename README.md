@@ -2,10 +2,11 @@
 <h3 align="center">A Developer from the Netherlands</h3>
 
 <h4>Currently working on my MBO Software development on Grafisch Lyceum Rotterdam</h4>
+<H3>Right now working as an Intern at KLM Cargo Schiphol!</H3>
 
-- 🔭 I’m currently working on **my own website**
+- 🔭 I’m currently working at **KLM CARGO DPS Team** as an intern
 
-- 🌱 I’m currently learning **HTML, CSS, JS and Python on**
+- 🌱 I’m currently learning **SQL, Python**
 
 - 👨‍💻 All of my projects are available at [rickbaas.nl](rickbaas.nl)
 
